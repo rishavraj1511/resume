@@ -1,0 +1,20 @@
+body {background-color: #FFDEDE;
+
+   }
+hr {
+     background-color: #FFDEDE;
+     border-style:  none;
+     border-top-style: dotted;
+     border-width: 5px;
+     border-color: grey;
+     height: 1px;
+     width: 5%;
+   }
+   img {
+     height: 160px;
+   }
+h1{font-style: italic;
+  
+  color: #7A4495;
+}
+h3{color: #7A4495;}
